@@ -1,0 +1,5 @@
+HOW TO USE:
+
+disunity.exe extract <Path to Unity bundle file>
+
+Note: The Exported files will be in the same location as the bundle
